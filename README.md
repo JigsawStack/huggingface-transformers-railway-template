@@ -40,7 +40,7 @@ Uses [Nixpacks](https://nixpacks.com/docs/providers/python) to deploy on railway
 
 ## 🧩 Background
 
-The team at [JigsawStack](https://docs.railway.com/guides/cli) is launching a embedding model and we're experimenting with different infrastructure for scalable and affordable CPU usage. Check out the [embedding model here](https://jigsawstack.com/blog/introducing-multimodal-multilingual-embedding-model-for-images-audio-and-pdfs-in-alpha)
+The team at [JigsawStack](https://jigsawstack.com) is launching an embedding model and we're experimenting with different infrastructure for scalable and affordable CPU usage. Check out the [embedding model here](https://jigsawstack.com/blog/introducing-multimodal-multilingual-embedding-model-for-images-audio-and-pdfs-in-alpha)
 
 ## Common issues
 
